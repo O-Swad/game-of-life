@@ -247,14 +247,7 @@
                     <!--</plugin>-->
 
                     <!-- PMD -->
-		   
-		   <plugin>
-			  <groupId>org.mortbay.jetty</groupId>
-		  	<artifactId>jetty-maven-plugin</artifactId>
-	           </plugin>
-		   
-		   
-		    <plugin>
+                    <plugin>
                         <groupId>org.apache.maven.plugins</groupId>
                         <artifactId>maven-pmd-plugin</artifactId>
                         <version>3.2</version>
