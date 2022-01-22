@@ -31,13 +31,7 @@
 
 		<plugin>
   			<groupId>org.mortbay.jetty</groupId>
-			<artifactId>jetty-maven-plugin</artifactId>
-			      <configuration>
-        			<httpConnector>
-			          <!--host>localhost</host-->
-			          <port>9999</port>
-			        </httpConnector>
-			      </configuration>
+		  	<artifactId>jetty-maven-plugin</artifactId>
 		</plugin>
 
 		
